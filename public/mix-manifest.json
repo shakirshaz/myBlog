@@ -1,0 +1,12 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/css/login/login.css": "/css/login/login.css",
+    "/css/register/register.css": "/css/register/register.css",
+    "/css/common/common.css": "/css/common/common.css",
+    "/css/resetEmail/resetEmail.css": "/css/resetEmail/resetEmail.css",
+    "/js/register/register.js": "/js/register/register.js",
+    "/js/login/login.js": "/js/login/login.js",
+    "/css/main.css": "/css/main.css",
+    "/js/main.js": "/js/main.js"
+}

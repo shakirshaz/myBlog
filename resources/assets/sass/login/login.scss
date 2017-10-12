@@ -1,0 +1,61 @@
+div#outerApp {
+  background-color: black !important;
+  height: 95vh;
+}
+
+form label {
+  color: white !important;
+  font-size: 16px;
+}
+
+/*------------------------------------------
+   Navbar Css Alterations
+-------------------------------------------*/
+nav.navbar-default {
+  background: transparent !important;
+  border: transparent !important;
+}
+
+nav.navbar a {
+  font-size: 20px;
+  color: whitesmoke !important;
+}
+
+/*-----------------------------------------*/
+
+/*------------------------------------------
+   Login Form CSS
+-------------------------------------------*/
+div.loginForm {
+  width: 100%;
+  min-height: 350px;
+  background: linear-gradient(whitesmoke, transparent);
+  padding: 75px 50px;
+  border-radius: 5px;
+  border: none;
+}
+
+div.loginForm input[type = 'email'], div.loginForm input[type = 'password'] {
+  padding: 20px 10px !important;
+}
+
+div.loginForm button {
+  padding: 10px 10px !important;
+}
+
+span.forgotText {
+  color: whitesmoke;
+  float: left;
+  margin-left: -10px;
+}
+
+span.help-block {
+  color: red !important;
+}
+
+.has-error .form-control {
+  border: 2px solid red !important;
+}
+
+/*-----------------------------------------*/
+

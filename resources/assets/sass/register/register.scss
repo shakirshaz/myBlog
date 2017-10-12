@@ -1,0 +1,21 @@
+/*------------------------------------------
+ Register Form CSS
+ -------------------------------------------*/
+div.registerForm {
+  width: 100%;
+  min-height: 350px;
+  background: linear-gradient(whitesmoke,transparent);
+  padding: 40px 50px;
+  border-radius: 5px;
+  border: none;
+}
+
+div.registerForm input[type = 'email'],div.registerForm input[type = 'password'], div.registerForm input[type = 'text'] {
+  padding: 20px 10px !important;
+}
+
+div.registerForm button{
+  padding: 10px 10px !important;
+}
+/*-----------------------------------------*/
+
